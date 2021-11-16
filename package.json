@@ -9,7 +9,7 @@
   "author": "Tushar Mudgal <tusharmudgal3@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.437.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.6",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
